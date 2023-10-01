@@ -1,7 +1,5 @@
 package fr.unistra.l2.poo2;
 
-import lombok.extern.java.Log;
-
 public class Echequier {
     private final int[] positions = {0, 0, 0, 0, 0, 0, 0, 0};
     private int nbSolutions = 0;
